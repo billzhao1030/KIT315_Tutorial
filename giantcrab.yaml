@@ -1,0 +1,9 @@
+
+train: /content/giantcrab/images/train
+val: /content/giantcrab/images/valid
+test:  /content/giantcrab/images/test
+
+# Classes
+nc:3
+names:['crab1', 'crab2']
+
